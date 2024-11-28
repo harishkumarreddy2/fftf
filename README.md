@@ -1,7 +1,7 @@
 # FFTF
 Flat File Transformation factory
 
-Transform a flat text file into structured/semistructured format by using data marking key file.
+Transform a flat text file into structured/semistructured format by using data marking key file known as key_map.
 
 #### Command to execute:
 ```
